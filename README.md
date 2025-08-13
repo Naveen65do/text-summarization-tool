@@ -53,3 +53,6 @@ Git: Version control tool used to manage and track changes in the project
 
 
 OUTPUT:
+
+
+<img width="1897" height="931" alt="Image" src="https://github.com/user-attachments/assets/54b10460-3147-4d87-a90a-c60de47fd11f" />
